@@ -1,0 +1,56 @@
+button {
+  border: black 1px solid;
+  background-color: white;
+  color: black;
+}
+
+button:hover,
+button.selected {
+  background-color: black;
+  color: white;
+  transition: 0.5s;
+}
+
+.n1 {
+  color: #ff2222;
+}
+
+.n2 {
+  color: #fa781b;
+}
+
+.n3 {
+  color: #ffda21;
+}
+
+.n4 {
+  color: #86ff26;
+}
+
+.n5 {
+  color: #45c6ff;
+}
+
+.n6 {
+  color: #d926ff;
+}
+
+.n7 {
+  color: #ff009b;
+}
+
+.n8 {
+  color: #af4f00;
+}
+
+.n9 {
+  color: #8c8c8c;
+}
+
+.n0 {
+  color: #000000;
+}
+
+.n- {
+  color: #1ffff4;
+}

@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+button {
+  border: white 1px solid;
+  background-color: black;
+  color: white;
+}
+
+button:hover,
+button.selected {
+  background-color: white;
+  color: black;
+  transition: 0.5s;
+}
+
+#number-house {
+  color: white;
+}

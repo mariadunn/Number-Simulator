@@ -1,0 +1,72 @@
+
+  body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 20px;
+  }
+
+  span {
+    font-weight: 700;
+  }
+
+  p {
+    margin-left: 20px;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  #container {
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+  }
+
+  #footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: auto;
+  }
+
+  .button-link {
+    text-decoration: none;
+    font-family: 'Helvetica';
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+  }
+
+  #buttons {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  button {
+    border-radius: 5px;
+    font-size: 1.5em;
+    font-family: 'Helvetica';
+    margin: 10px;
+    padding: 5px;
+  }
+
+  #number-house {
+    font-family: 'Abril Fatface';
+    display: flex;
+    align-self: center;
+    margin-top: 125px;
+    margin-left: 20px;
+    padding: 20px;
+    font-size: 5em;
+    letter-spacing: 3px;
+  }
+
+  #controls {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+  }
+
+  #controls div {
+    margin: 10px;
+  }

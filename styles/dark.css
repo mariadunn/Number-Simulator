@@ -1,0 +1,70 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+button,
+.button-link {
+  border: white 1px solid;
+  background-color: black;
+  color: white;
+}
+
+button:hover,
+button.selected,
+.button-link:hover {
+  background-color: white;
+  color: black;
+  transition: 0.5s;
+}
+
+#controls-button.selected:hover {
+  background-color: black;
+  color: white;
+  transition: 0.5s;
+}
+
+
+.n1 {
+  color: #ff3636;
+}
+
+.n2 {
+  color: #f69a3f;
+}
+
+.n3 {
+  color: #ffe770;
+}
+
+.n4 {
+  color: #c4ff95;
+}
+
+.n5 {
+  color: #9ae0ff;
+}
+
+.n6 {
+  color: #ce8eff;
+}
+
+.n7 {
+  color: #ff7cd6;
+}
+
+.n8 {
+  color: #c68753;
+}
+
+.n9 {
+  color: #b6b6b6;
+}
+
+.n0 {
+  color: #f5f5f5;
+}
+
+.n- {
+  color: #83fff9;
+}
